@@ -1,0 +1,48 @@
+.root {
+     
+	background: #33FF74;
+	width: 50%;
+	
+
+	margin: 0 auto;
+	border-radius: 40px;
+}
+.header {
+	padding: 10px;
+}
+.title {
+	margin-top: 40px;
+	text-align: center ;
+
+	color: white;
+}
+
+.formulario {
+	width: 80%;
+	margin: 0 auto;
+
+}
+input {
+	width: 40%;
+	display: block;
+	border-radius: 10px;
+	padding: 4px;
+	margin: 0 auto;
+	font-size: 15px;
+}
+.button {
+	display: block;
+	width: 70%;
+	background: blue;
+	color: white;
+	margin: 30px;
+	border: 10px 0 0 0;
+}
+label {
+	margin: 10px;
+}
+h2 {
+	font-size: 15px;
+	text-align: center;
+
+}
